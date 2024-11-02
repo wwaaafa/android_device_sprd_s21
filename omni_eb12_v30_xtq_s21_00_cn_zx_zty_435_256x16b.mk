@@ -15,8 +15,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 # Inherit from eb12_v30_xtq_s21_00_cn_zx_zty_435_256x16b device
 $(call inherit-product, device/s21/eb12_v30_xtq_s21_00_cn_zx_zty_435_256x16b/device.mk)
 
-PRODUCT_DEVICE := eb12_v30_xtq_s21
-PRODUCT_NAME := omni_eb12_v30_xtq_s21
+PRODUCT_DEVICE := eb12_v30_xtq_s21_00_cn_zx_zty_435_256x16b
+PRODUCT_NAME := omni_eb12_v30_xtq_s21_00_cn_zx_zty_435_256x16b
 PRODUCT_BRAND := SPRD
 PRODUCT_MODEL := S21
 PRODUCT_MANUFACTURER := s21
