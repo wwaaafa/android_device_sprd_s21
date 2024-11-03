@@ -98,6 +98,7 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_INCLUDE_CRYPTO := true # 添加加密支持
+RECOVERY_SDCARD_ON_DATA := true # 设置内部存储的数据是否在 data 分区
 
 # Debug
 TARGET_USES_LOGD := true
